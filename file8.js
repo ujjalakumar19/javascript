@@ -23,3 +23,8 @@
 // // convert string to number. 
 
 // let myStr = +"34";
+/ console.log(typeof myStr);
+
+// let age = "18";
+// age = Number(age);
+// console.log(typeof age);
